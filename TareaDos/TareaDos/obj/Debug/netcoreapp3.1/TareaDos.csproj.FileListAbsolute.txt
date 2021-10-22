@@ -1,0 +1,14 @@
+D:\repos\visual comunity\guia\TareaDos\TareaDos\bin\Debug\netcoreapp3.1\TareaDos.exe
+D:\repos\visual comunity\guia\TareaDos\TareaDos\bin\Debug\netcoreapp3.1\TareaDos.deps.json
+D:\repos\visual comunity\guia\TareaDos\TareaDos\bin\Debug\netcoreapp3.1\TareaDos.runtimeconfig.json
+D:\repos\visual comunity\guia\TareaDos\TareaDos\bin\Debug\netcoreapp3.1\TareaDos.runtimeconfig.dev.json
+D:\repos\visual comunity\guia\TareaDos\TareaDos\bin\Debug\netcoreapp3.1\TareaDos.dll
+D:\repos\visual comunity\guia\TareaDos\TareaDos\bin\Debug\netcoreapp3.1\TareaDos.pdb
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.csproj.AssemblyReference.cache
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.AssemblyInfoInputs.cache
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.AssemblyInfo.cs
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.csproj.CoreCompileInputs.cache
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.dll
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.pdb
+D:\repos\visual comunity\guia\TareaDos\TareaDos\obj\Debug\netcoreapp3.1\TareaDos.genruntimeconfig.cache

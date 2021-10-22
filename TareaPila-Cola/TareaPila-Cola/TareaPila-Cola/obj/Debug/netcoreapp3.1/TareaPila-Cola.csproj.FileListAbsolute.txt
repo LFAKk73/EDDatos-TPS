@@ -1,0 +1,14 @@
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\bin\Debug\netcoreapp3.1\TareaPila-Cola.exe
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\bin\Debug\netcoreapp3.1\TareaPila-Cola.deps.json
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\bin\Debug\netcoreapp3.1\TareaPila-Cola.runtimeconfig.json
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\bin\Debug\netcoreapp3.1\TareaPila-Cola.runtimeconfig.dev.json
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\bin\Debug\netcoreapp3.1\TareaPila-Cola.dll
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\bin\Debug\netcoreapp3.1\TareaPila-Cola.pdb
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.csproj.AssemblyReference.cache
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.AssemblyInfoInputs.cache
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.AssemblyInfo.cs
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.csproj.CoreCompileInputs.cache
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.dll
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.pdb
+D:\repos\visual comunity\guia\TareaPila-Cola\TareaPila-Cola\TareaPila-Cola\obj\Debug\netcoreapp3.1\TareaPila-Cola.genruntimeconfig.cache

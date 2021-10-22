@@ -1,0 +1,14 @@
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\bin\Debug\netcoreapp3.1\Ejerciciofunciones.exe
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\bin\Debug\netcoreapp3.1\Ejerciciofunciones.deps.json
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\bin\Debug\netcoreapp3.1\Ejerciciofunciones.runtimeconfig.json
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\bin\Debug\netcoreapp3.1\Ejerciciofunciones.runtimeconfig.dev.json
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\bin\Debug\netcoreapp3.1\Ejerciciofunciones.dll
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\bin\Debug\netcoreapp3.1\Ejerciciofunciones.pdb
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.csproj.AssemblyReference.cache
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.AssemblyInfoInputs.cache
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.AssemblyInfo.cs
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.csproj.CoreCompileInputs.cache
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.dll
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.pdb
+D:\repos\visual comunity\guia\TareaEjerciciosFunciones\Ejerciciofunciones\Ejerciciofunciones\obj\Debug\netcoreapp3.1\Ejerciciofunciones.genruntimeconfig.cache

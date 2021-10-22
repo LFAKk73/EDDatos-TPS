@@ -1,0 +1,14 @@
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.exe
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.deps.json
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.json
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.runtimeconfig.dev.json
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.dll
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\Tarea2.pdb
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.csproj.AssemblyReference.cache
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfoInputs.cache
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.AssemblyInfo.cs
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.csproj.CoreCompileInputs.cache
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.dll
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.pdb
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\Tarea2.genruntimeconfig.cache

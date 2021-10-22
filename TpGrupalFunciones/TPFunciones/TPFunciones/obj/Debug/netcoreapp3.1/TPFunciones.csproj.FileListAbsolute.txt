@@ -1,0 +1,14 @@
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\bin\Debug\netcoreapp3.1\TPFunciones.exe
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\bin\Debug\netcoreapp3.1\TPFunciones.deps.json
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\bin\Debug\netcoreapp3.1\TPFunciones.runtimeconfig.json
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\bin\Debug\netcoreapp3.1\TPFunciones.runtimeconfig.dev.json
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\bin\Debug\netcoreapp3.1\TPFunciones.dll
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\bin\Debug\netcoreapp3.1\TPFunciones.pdb
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.csproj.AssemblyReference.cache
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.AssemblyInfoInputs.cache
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.AssemblyInfo.cs
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.csproj.CoreCompileInputs.cache
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.dll
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.pdb
+D:\repos\visual comunity\guia\tpfunciones\TPFunciones\TPFunciones\obj\Debug\netcoreapp3.1\TPFunciones.genruntimeconfig.cache

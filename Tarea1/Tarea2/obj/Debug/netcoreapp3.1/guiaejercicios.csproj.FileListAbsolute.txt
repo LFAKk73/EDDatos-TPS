@@ -1,0 +1,14 @@
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\guiaejercicios.exe
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\guiaejercicios.deps.json
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\guiaejercicios.runtimeconfig.json
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\guiaejercicios.runtimeconfig.dev.json
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\guiaejercicios.dll
+D:\repos\visual comunity\guia\Tarea2\Tarea2\bin\Debug\netcoreapp3.1\guiaejercicios.pdb
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.AssemblyInfoInputs.cache
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.AssemblyInfo.cs
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.csproj.CoreCompileInputs.cache
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.dll
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.pdb
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.genruntimeconfig.cache
+D:\repos\visual comunity\guia\Tarea2\Tarea2\obj\Debug\netcoreapp3.1\guiaejercicios.csproj.AssemblyReference.cache
